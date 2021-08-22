@@ -1,13 +1,11 @@
 import QtQuick 2.15
 
-import "../Components"
-
 Item {
     id: control
 
-    property string title: "<article>"
-    property color backgroundPrimaryColor: "#DDDDDD"
-    property color backgroundSecondaryColor: "#464646"
+    property string title: "<main>"
+    property color backgroundPrimaryColor: "#FFC8AE"
+    property color backgroundSecondaryColor: "#BD081C"
 
     Container {
         color: control.backgroundPrimaryColor

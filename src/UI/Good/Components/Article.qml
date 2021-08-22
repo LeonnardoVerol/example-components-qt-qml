@@ -1,11 +1,9 @@
 import QtQuick 2.15
 
-import "../Components"
-
 Item {
     id: control
 
-    property string title: "<aside>"
+    property string title: "<article>"
     property color backgroundPrimaryColor: "#DDDDDD"
     property color backgroundSecondaryColor: "#464646"
 

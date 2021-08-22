@@ -4,10 +4,10 @@
         <file>UI/Bad/Bad.qml</file>
         <file>UI/Good/Good.qml</file>
         <file>UI/Good/Components/Title.qml</file>
-        <file>UI/Good/Styles/Main.qml</file>
+        <file>UI/Good/Components/Main.qml</file>
         <file>UI/Good/Components/Container.qml</file>
-        <file>UI/Good/Styles/Article.qml</file>
-        <file>UI/Good/Styles/Aside.qml</file>
-        <file>UI/Good/Styles/Section.qml</file>
+        <file>UI/Good/Components/Article.qml</file>
+        <file>UI/Good/Components/Aside.qml</file>
+        <file>UI/Good/Components/Section.qml</file>
     </qresource>
 </RCC>

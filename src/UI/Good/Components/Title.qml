@@ -29,5 +29,4 @@ Item {
             font.pointSize: 12
         }
     }
-
 }
